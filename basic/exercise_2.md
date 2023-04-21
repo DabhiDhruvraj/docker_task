@@ -8,7 +8,7 @@ Let's run the image in a new container and install the ping utility.
 
 1.First start the container with /bin/bash:
 ```
-$ docker run -it ubuntu:16.04 /bin/bash
+dhruvrajsinh@sf-cpu-371:~ $ docker run -it ubuntu:16.04 /bin/bash
 root@786b94c53c6d:/#
 ```
 2. Try running ping in terminal.
